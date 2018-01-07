@@ -28,7 +28,6 @@ public class CreateActivity extends BaseActivity {
 
     private static final String CREATE_FRAG = "CREATE_FRAG";
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
